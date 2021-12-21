@@ -756,13 +756,13 @@ textarea{
     .works-titulo {
         font-size: 1.5rem;
     }
-    .contacto-container {
-        justify-content: center;
-        flex-direction: column;
-        align-content: center;
-        
+.contacto-container {
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
     padding: 15px 25px;
-    }
+}
     .contacto-container .sociales, .contacto-container .formulario {
         width: 80%;
     }
